@@ -1,5 +1,5 @@
 # 3.2_Touchsy_Breakout_Resistive_Hardware
-Touchsy Breakout - the perfect display solution for users who prefer using Arduino or other controllers. In this github repo you will find hardware files for _3.2" Touchsy Breakout **Resistive**_ Hardware.
+Touchsy Resistive Breakout - the perfect display solution for users who prefer using Arduino or other controllers. In this github repo you will find hardware files for _3.2" Touchsy Breakout **Resistive**_ Hardware.
 
 Standard 3.2" LCD touch panels with capacitive and resistive touch choices are available. Also, this has several Hardware Compatibility choices to accommodate the whole Hardware Community. 
 <img src = "https://cdn.shopify.com/s/files/1/1217/2104/files/Touchsy.png?v=1676717838"/>
